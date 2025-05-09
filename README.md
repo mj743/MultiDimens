@@ -17,7 +17,7 @@ Gunakan format:
 android:padding="@dimen/size_16"
 android:layout_margin="@dimen/size_12"
 android:layout_marginTop="@dimen/size_8"
----
+```
 ## ☕ Donate
 If you like this project and want to support the developer:
 
