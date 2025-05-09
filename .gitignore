@@ -1,0 +1,43 @@
+# Android Studio
+*.iml
+.idea/
+.gradle/
+local.properties
+
+# Build outputs
+/build/
+*/build/
+.cxx/
+.externalNativeBuild/
+
+# OS-specific
+.DS_Store
+
+# Captures and test results
+captures/
+
+# Jetpack Compose preview cache
+.compose-cache/
+
+# Auto-generated files
+*.log
+*.apk
+*.ap_
+
+# Kotlin specific
+*.kotlin_module
+
+# MacOS system files
+__MACOSX/
+
+# Windows thumbnail db
+Thumbs.db
+
+# Sign-in keys or secrets (jangan pernah upload!)
+*.jks
+*.keystore
+key.properties
+
+# Lainnya (opsional)
+*.swp
+*.tmp
